@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/contact", "destination": "/contact.html" },
+    { "source": "/content", "destination": "/content.html" },
+    { "source": "/experience", "destination": "/experience.html" },
+    { "source": "/projects", "destination": "/projects.html" },
+    { "source": "/work", "destination": "/work.html" }
+  ]
+}

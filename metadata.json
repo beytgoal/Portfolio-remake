@@ -1,0 +1,8 @@
+{
+  "name": "RainX - Tech Agency & Portfolio",
+  "description": "Full-stack software development, custom AI solutions, Web3 engineering, product design, and tech operations portfolio by RainX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
